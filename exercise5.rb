@@ -27,4 +27,4 @@ def greet_backwards (name)
  end
 
 name = gets.chomp.to_s
-print "Hello #{name.reverse*2}! Welcome home."
+print "Hello #{name.reverse*2 }! Welcome home."
